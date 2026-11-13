@@ -1,0 +1,6 @@
+# ry.gd short links
+# One per line:  <code>  <destination URL>
+# After editing, run:  python3 build.py   (then commit and push)
+
+1  https://docs.google.com/document/d/1ec-JqOoJ2FEWWdPU3Y0Ree4tM8t8wrGMv6S-N18Qe4g/edit?tab=t.0
+2  https://docs.google.com/forms/d/e/1FAIpQLSddhbaNuQ05XVQ7nIsJkQRJAPST9ih29cwcyIzUmVkHYrNhOg/viewform
